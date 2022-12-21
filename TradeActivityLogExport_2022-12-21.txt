@@ -1,0 +1,14 @@
+ActivityType	DateTime	TransDateTime	Symbol	OrderActionSource	InternalOrderID	ServiceOrderID	OrderType	Quantity	BuySell	Price	Price2	OrderStatus	FillPrice	FilledQuantity	TradeAccount	OpenClose	ParentInternalOrderID	PositionQuantity	FillExecutionServiceID	HighDuringPosition	LowDuringPosition	Note	AccountBalance	ExchangeOrderID	ClientOrderID	TimeInForce	Username
+Orders	2022-12-21  01:19:27.672387	2022-12-21  01:19:27.672370	[Sim]@ES#	@ES#  5 Min   #10 | User order entry | Last: 3871.5 | AO=0	307		Limit	1	Sell	3871.2500000		Order Sent			Sim1	Open							0.00			Day	
+Orders	2022-12-21  01:19:27.674816	2022-12-21  01:19:27.674813	[Sim]@ES#	Simulated order accepted	307	307	Limit	1	Sell	3871.2500000		Open			Sim1	Open							0.00			Day	
+Orders	2022-12-21  01:20:11.317291	2022-12-21  01:20:11.317284	[Sim]@ES#	Trade simulation fill. Bid: 3871.25 Ask: 3871.50 Last: 3871.25	307	307	Limit	1	Sell	3871.2500000		Filled	3871.2500000	1	Sim1	Open							0.00			Day	
+Orders	2022-12-21  01:20:51.791018	2022-12-21  01:20:51.791007	[Sim]@ES#	@ES#  5 Min   #10 | User order entry | Last: 3870.75 | AO=0	308		Limit	1	Buy	3871.0000000		Order Sent			Sim1	Close		-1					0.00			Day	
+Orders	2022-12-21  01:20:51.791757	2022-12-21  01:20:51.791753	[Sim]@ES#	Simulated order accepted	308	308	Limit	1	Buy	3871.0000000		Open			Sim1	Close		-1					0.00			Day	
+Orders	2022-12-21  01:20:51.791778	2022-12-21  01:20:51.791775	[Sim]@ES#	Trade simulation fill. Bid: 3870.75 Ask: 3871.00 Last: 3870.75	308	308	Limit	1	Buy	3871.0000000		Filled	3871.0000000	1	Sim1	Close		-1					0.00			Day	
+Orders	2022-12-21  01:23:40.537367	2022-12-21  01:23:40.537366	[Sim]@ES#	@ES#  5 Min   #10 | User order entry | Unable to Flatten/Reverse. Position does not exist								Unspecified			Sim1								0.00				
+Orders	2022-12-21  01:25:40.176145	2022-12-21  01:25:40.176120	[Sim]@ES#	@ES#  5 Min   #10 | User order entry | Last: 3872 | AO=0	309		Market	1	Sell			Order Sent			Sim1	Open							0.00			Day	
+Orders	2022-12-21  01:25:40.177191	2022-12-21  01:25:40.177189	[Sim]@ES#	Simulated order accepted	309	309	Market	1	Sell			Open			Sim1	Open							0.00			Day	
+Orders	2022-12-21  01:25:40.177207	2022-12-21  01:25:40.177205	[Sim]@ES#	Trade simulation fill. Bid: 3872.00 Ask: 3872.25 Last: 3872.00	309	309	Market	1	Sell			Filled	3872.0000000	1	Sim1	Open							0.00			Day	
+Orders	2022-12-21  01:31:40.917302	2022-12-21  01:31:40.917291	[Sim]@ES#	@ES#  5 Min   #10 | User order entry | Last: 3871 | AO=0	310		Limit	1	Buy	3871.2500000		Order Sent			Sim1	Close		-1					0.00			Day	
+Orders	2022-12-21  01:31:40.918322	2022-12-21  01:31:40.918319	[Sim]@ES#	Simulated order accepted	310	310	Limit	1	Buy	3871.2500000		Open			Sim1	Close		-1					0.00			Day	
+Orders	2022-12-21  01:31:40.918339	2022-12-21  01:31:40.918337	[Sim]@ES#	Trade simulation fill. Bid: 3870.75 Ask: 3871.00 Last: 3870.75	310	310	Limit	1	Buy	3871.2500000		Filled	3871.0000000	1	Sim1	Close		-1					0.00			Day	

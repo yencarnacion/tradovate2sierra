@@ -1,0 +1,12 @@
+
+
+Draw old filled transactions from a csv file onto chart?
+https://www.sierrachart.com/SupportBoard.php?ThreadID=37268
+
+Importing trades from jigsaw
+https://www.sierrachart.com/SupportBoard.php?ThreadID=55238
+
+
+If you are importing order fills from a source other than Sierra Chart, it is essential that the FillExecutionServiceID field is present for each order fill and is unique for each individual fill.
+
+
